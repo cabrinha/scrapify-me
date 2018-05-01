@@ -1,0 +1,3 @@
+configargparse
+praw
+slackclient
